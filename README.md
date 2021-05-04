@@ -1,4 +1,4 @@
-# ReactNativeCircularActionMenu
+# React Native Circular Action Menu
 
 Copyright [2021] [ManikandanKRM]
 
